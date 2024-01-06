@@ -1,0 +1,16 @@
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.exe
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.deps.json
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.runtimeconfig.json
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.runtimeconfig.dev.json
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\ref\Celular_POO.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\bin\Debug\net5.0\Celular_POO.pdb
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.csproj.AssemblyReference.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.AssemblyInfoInputs.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.AssemblyInfo.cs
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.csproj.CoreCompileInputs.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\ref\Celular_POO.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.pdb
+C:\Users\MichelinJV\Documents\Projetos DIO\formação dotnet\Celular_POO\obj\Debug\net5.0\Celular_POO.genruntimeconfig.cache
